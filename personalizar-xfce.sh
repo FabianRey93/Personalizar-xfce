@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 # Descripcion: Script que personaliza Xfce.
 # Autor: Alex Gracia
-# Version: 0.1.0
+# Version: 0.1.2
 # Requisitos: conexion de red, paquete wget y p7zip-full
 # URL: https://github.com/AlexGracia/Personalizar-xfce
 #════════════════════════════════════════
@@ -51,7 +51,6 @@ _comprobaciones_iniciales () {
     if [ $? != 0 ]; then
         _error "Falta el paquete xfce4-panel (Xfce)."
     fi
-
 
     # Comprobar el paquete wget.
     echo "Comprobando el paquete wget ..."
