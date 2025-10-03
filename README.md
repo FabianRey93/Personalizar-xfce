@@ -23,6 +23,9 @@ Script que personaliza [Xfce](https://www.xfce.org/).
     sh personalizar-xfce.sh
     ```
 
+> [!TIP]
+> Utiliza [auto-xfce.sh](https://github.com/AlexGracia/Auto-xfce) para instalar Xfce.
+
 ## Herramientas
 - [Llama 3.3](https://github.com/meta-llama/llama3): utilizado a través del chat de [DuckDuckGo](https://Duck.ai), para resolver dudas.
 - [Dub](https://github.com/dubinc/dub): [acortador de enlaces](https://dub.co/), utilizado en el enlace de descarga.
