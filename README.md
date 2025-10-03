@@ -11,13 +11,9 @@ Script que personaliza [Xfce](https://www.xfce.org/).
 - Paquete [p7zip-full](http://p7zip.sourceforge.net/)
 
 ## Demostración
-
-### Personalizar-xfce
 ![demo-personalizar](.github/img/demo-personalizar.gif)
 
 ## Instalación
-
-### Personalizar-xfce
 1. Descargar
     ```sh
     wget https://git.new/personalizar-xfce.sh
