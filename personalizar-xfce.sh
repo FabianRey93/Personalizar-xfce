@@ -38,6 +38,21 @@ _ok () {
 _comprobaciones_iniciales () {
     _titulo "Comprobaciones iniciales   " 1
 
+    # Comprobando utilidad xfconf-query
+    echo "Comprobando la utilidad xfconf-query ..."
+    command -v xfconf-query >/dev/null
+    if [ $? != 0 ]; then
+        _error "Falta la utilidad xfconf-query (Xfce)."
+    fi
+
+    # Comprobando el paquete xfce4-panel
+    echo "Comprobando el paquete xfce4-panel ..."
+    command -v xfce4-panel >/dev/null
+    if [ $? != 0 ]; then
+        _error "Falta el paquete xfce4-panel (Xfce)."
+    fi
+
+
     # Comprobar el paquete wget.
     echo "Comprobando el paquete wget ..."
     command -v wget >/dev/null
