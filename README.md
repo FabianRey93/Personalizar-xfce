@@ -24,8 +24,9 @@ Script que personaliza [Xfce](https://www.xfce.org/).
     ```
 
 ## Herramientas
-- [IT-TOOLS](https://github.com/CorentinTh/it-tools): [ASCII Art Text Generator](https://it-tools.tech/ascii-text-drawer), fuente ANSI Shadow, utilizado en texto de bienvenida y despedida.
-- [Pollinations.AI](https://github.com/pollinations/pollinations): [generación de imagen con IA](https://pollinations.ai/), utilizado en fondos de pantalla.
 - [Llama 3.3](https://github.com/meta-llama/llama3): utilizado a través del chat de [DuckDuckGo](https://Duck.ai), para resolver dudas.
 - [Dub](https://github.com/dubinc/dub): [acortador de enlaces](https://dub.co/), utilizado en el enlace de descarga.
 - [Nano](https://www.nano-editor.org/git.php): [editor de texto](https://www.nano-editor.org/docs.php).
+- [Boxes](https://gitlab.gnome.org/gnome/gnome-boxes): [gestor de máquinas virtuales](https://apps.gnome.org/es/Boxes/), utilizado para probar el script.
+- [OBS Studio](https://github.com/obsproject/obs-studio): [grabador y transmisor de audio y vídeo](https://obsproject.com), utilizado para grabar la demostración en vídeo (mkv).
+- [FFmpeg](https://git.ffmpeg.org/ffmpeg): [grabador, conversor y transmisor de audio y vídeo](https://ffmpeg.org/), utilizado para transformar la demostración de vídeo (mkv) a imagen (gif).
