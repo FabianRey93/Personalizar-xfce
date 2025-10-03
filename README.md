@@ -11,6 +11,9 @@ Script que personaliza [Xfce](https://www.xfce.org/).
 - Paquete [wget](https://www.gnu.org/software/wget/)
 - Paquete [p7zip-full](http://p7zip.sourceforge.net/)
 
+> [!TIP]
+> Utiliza [auto-xfce.sh](https://github.com/AlexGracia/Auto-xfce) para instalar Xfce.
+
 ## Demostración
 ![demo-personalizar](.github/img/demo-personalizar.gif)
 
@@ -23,9 +26,6 @@ Script que personaliza [Xfce](https://www.xfce.org/).
     ```sh
     sh personalizar-xfce.sh
     ```
-
-> [!TIP]
-> Utiliza [auto-xfce.sh](https://github.com/AlexGracia/Auto-xfce) para instalar Xfce.
 
 ## Herramientas
 - [Llama 3.3](https://github.com/meta-llama/llama3): utilizado a través del chat de [DuckDuckGo](https://Duck.ai), para resolver dudas.
