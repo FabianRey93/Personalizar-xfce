@@ -6,6 +6,7 @@
 Script que personaliza [Xfce](https://www.xfce.org/).
 
 ## Requisitos
+- Entorno de escritorio Xfce
 - Conexión de red
 - Paquete [wget](https://www.gnu.org/software/wget/)
 - Paquete [p7zip-full](http://p7zip.sourceforge.net/)
